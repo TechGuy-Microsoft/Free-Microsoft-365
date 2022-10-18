@@ -1,4 +1,4 @@
-#Free Microsoft 365
+
 First of all, Extract the .zip file by right clicking on it and clicking Extract All.
 Next, Double click the folder, then go to the bar at the top and there remove all text and then type in cmd.
 After that, On the black box type setup /configure configuration.xml.
